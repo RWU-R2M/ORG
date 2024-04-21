@@ -1,5 +1,3 @@
-:::success
-
 ## Possible Companies
 >Please check all the Companies the mail has been sent to with a Checkmark::heavy_check_mark:
 If you fucked up something, note that with the symbol::triangular_flag_on_post:	
@@ -47,5 +45,3 @@ fpt: https://www.fpt.de/home (Robotik):heavy_check_mark:
 friotherm: https://www.friotherm.com/ (Wärme/Kältetechnik):heavy_check_mark:
 ferchau: https://www.ferchau.com/de/de (IT & Elektronik):heavy_check_mark:
 Glenair: https://www.glenair.de/ (Luftfahrt):heavy_check_mark:
-
-:::
