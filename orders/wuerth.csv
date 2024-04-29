@@ -1,10 +1,13 @@
-Thema	,Name		,Beschreibung	, Art.-Nr.	,EAN		,Anzahl VE	,Summe gesamt
+Thema:	,Name:		,Beschreibung:	, Art.-Nr.:	,EAN:		,Anzahl VE:	,Summe gesamt:
 Crimp	,Leandro	,Crimp-Set	,5964055701	,4046777768848	,1x		,1x
 	,Leandro	,Crimp-Zange	,0714107162	,4058794021950	,1x		,1x
 	,Leandro	,Verbinder-Set	,5964055600	,4046777788495	,1x		,1x
 	,Leandro	,Winkel-Set	,4952600294	,4056807475349	,5x		,50x
 	,Leandro	,Nutensteine	,4952600277	,4056807473512	,1x		,100x
 
-
-
+Leitung	,Leandro	,FLRY 6mm2 BK	,0770110	,4045989213061	,1x		,25m
+	,Leandro	,FLRY 6mm2 BN	,07701109	,4011231766234	,1x		,25m
+	,Leandro	,FLRY 6mm2 YE	,077011000	,4045989213085	,1x		,25m
+	,Leandro	,FLRY 6mm2 RD	,07701100	,4045989213078	,1x		,25m
+	
 
