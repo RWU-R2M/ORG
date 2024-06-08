@@ -1,7 +1,12 @@
 Bezeichnung 		,Art.-Nr.:		,Anzahl		,(TEs)
 
-Tiefsetzsteller		,DDR-30G-5		,1x		,(2)
-Schütz			,SIE 5TT5842-2		,1x		,(3)
+Buck-Converter 5V	,DDR-30G-5		,1x		,(2)
+Schütz/Relais		,SIE 5TT5840-2		,1x		,(3)
 
+
+Raspberry Pi 5 		,RASP PI 5 B 8GB	,1x		,(X)
+Pi 5 DIN-Gehäuse	,RPI5 CASE DIN2		,1x		,(X)
+Pi 5 Kühlkörper		,RPI5 COOL 01		,1x		,(X)
+Pi 5 RTC Batterie	,RASP RTC BAT		,1x		,(X)
 
 
